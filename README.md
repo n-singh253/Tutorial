@@ -1,5 +1,7 @@
 # 🎧 Welcome to Vibe Coding 💻🎶
 
+**Author: Sean Hamidi**
+
 This is a beginner-friendly space to **code creatively** with **Cursor AI** and **Git**. You don’t need to know how to code perfectly. Just **vibe**, explore, and have fun!
 
 ---
